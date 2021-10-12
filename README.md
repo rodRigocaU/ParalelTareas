@@ -1,1 +1,1 @@
-# ParalelTareas
+# Tareas del curso de paralelo
