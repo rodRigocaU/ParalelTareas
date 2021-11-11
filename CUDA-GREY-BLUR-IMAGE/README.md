@@ -9,3 +9,4 @@ PARA EJECUTARLO PODEMOS ABRIRLO DESDE EL VISUAL STUDIO Y EJECUTAR EL ARCHIVO "im
 
 En el archivo de "kernel.cu" se encuentran los metodos para la obtencion de las imagenes, en "imag2G.cpp" se encuentra la lectura y escritura de las imagenes / In the file "kernel.cu" are the methods for obtaining the images, in "imag2G.cpp" is the reading and writing of the images.
 
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" />
